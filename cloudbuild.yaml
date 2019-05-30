@@ -1,0 +1,4 @@
+steps:
+        - name: gcr.io/cloud-builders/git
+          args: ['clone', 'https://github.com/kavita77/demo2']
+
